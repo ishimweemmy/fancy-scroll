@@ -1,5 +1,3 @@
 server/node_modules/
-client/media/images/
-client/media/videos/
-server/media/images/
-server/media/videos/
+client/media/
+.history/
